@@ -1,6 +1,6 @@
-## Foundry
+## Advanced Smart Contracts: ERC20 Token Development & Deployment with AI Testing
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**Welcome to the Advanced Smart Contracts repository! This repository covers advanced techniques for developing secure, reliable, and efficient smart contracts. It includes an in-depth tutorial on creating, deploying, and testing an ERC20 token using Solidity. The project leverages best practices, the OpenZeppelin framework, and AI-powered test automation, offering you a robust foundation for ERC20 token development. Dive in to learn about Ethereum Improvement Proposals (EIPs), ERC standards, and how to harness AI to simplify and optimize testing smart contracts.**
 
 Foundry consists of:
 
@@ -64,3 +64,4 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+**This Project is open for Frontend Contributions!! Keep Learning and Keep Exploring**
